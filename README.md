@@ -2,7 +2,7 @@
 
 Project Sample Code
 
-This repository is to save the test code in python in several short topics.
+This repository is about the test code in python in several short topics.
 
 1) Git test
 

@@ -1,9 +1,12 @@
 # Project-Think
 
-Project Sample Code
+Project - Think
 
-This repository is about the test code in python in several short topics.
+This repository is about the sample code of test in python
+Each chapter is in order to learn about Github and Python code.
 
-1) Ch2. Git test
+1) Ch1. File handling in Python
 
-2) Ch3. SQL queary related panda frame
+2) Ch2. Git test with Hello World in Python
+
+3) Ch3. Use of SQL queary in Python, with Panda frame

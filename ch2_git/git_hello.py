@@ -1,2 +1,3 @@
 print ("Hello World")
-print ("welcome ~~~")
+
+print ("Welcome to Python World with Git")

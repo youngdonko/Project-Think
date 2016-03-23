@@ -1,6 +1,6 @@
 # Project-Think
 
-Project - Think
+Project - Think of ESOP (Easy Sit On Python)
 
 This repository is about the sample code of test in python
 Each chapter is in order to learn about Github and Python code.

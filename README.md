@@ -10,3 +10,5 @@ Each chapter is in order to learn about Github and Python code.
 2) Ch2. Git test with Hello World in Python
 
 3) Ch3. Use of SQL queary in Python, with Panda frame
+
+4) Ch4. Statistic with Python

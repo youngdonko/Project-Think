@@ -1,4 +1,4 @@
-# Project-Think
+# Project-Think of ESOP (Easy Sit On Python)
 
 Project - Think of ESOP (Easy Sit On Python)
 
@@ -11,4 +11,4 @@ Each chapter is in order to learn about Github and Python code.
 
 3) Ch3. Use of SQL queary in Python, with Panda frame
 
-4) Ch4. Statistic with Python
+4) Ch4. Statistics with Python

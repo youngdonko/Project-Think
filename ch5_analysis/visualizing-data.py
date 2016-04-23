@@ -3,7 +3,7 @@ import pandas as pd
 import scipy.stats as stats 
 
 
-loansdata = pd.read_csv('https://github.com/Thinkful-Ed/curric-data-001-data-sets/raw/master/loans/loansData.csv')
+loansdata = pd.read_csv('loansData.csv')
 
 
 loansdata.dropna(inplace=True)

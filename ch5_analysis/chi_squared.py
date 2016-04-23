@@ -6,7 +6,7 @@ import pandas as pd
 
 
 
-loansData = pd.read_csv('https://github.com/Thinkful-Ed/curric-data-001-data-sets/raw/master/loans/loansData.csv')
+loansData = pd.read_csv('loansData.csv')
 
 loansData.dropna(inplace=True)
 
